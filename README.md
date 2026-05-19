@@ -29,7 +29,3 @@ The dashboard analyzes customer purchasing patterns based on:
 ## Files Included
 - Dashboard Analysis (.xlsx)
 - Dataset (.xlsx )
-
-## 👨‍💻 Author
-
-Shaik Mehar Raziya
